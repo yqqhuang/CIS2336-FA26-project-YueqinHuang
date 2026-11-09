@@ -24,7 +24,7 @@ In VS code, open a terminal in the project root (the folder containing both `fro
 ```bash
 npm init -y
 npm install express path
-npm app.js
+node backend/app.js
 
 ```
 Open http://localhost:8080  in a browser and test the interactive web app.
